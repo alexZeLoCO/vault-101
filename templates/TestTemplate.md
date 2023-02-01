@@ -2,6 +2,7 @@
 Rodríguez López, Alejandro // UO281827
 
 Tags:
+	#showable
 	Hecho en
 	Sobre
 	Para
