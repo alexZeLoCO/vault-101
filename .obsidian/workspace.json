@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae2ea09c95100f86",
+            "id": "47361995e6255f70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,6 +130,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -147,17 +140,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae2ea09c95100f86",
+  "active": "47361995e6255f70",
   "lastOpenFiles": [
+    "EPI/3-2/Sistemas Inteligentes/2.3.1. CART (Classification and Regression Trees).md",
+    "2.3.2. C4.5.md",
+    "templates/TestTemplate.md",
+    "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
     "EPI/3-2/Sistemas Inteligentes/2.2. Algoritmos simples.md",
     "EPI/3-2/Sistemas Inteligentes/2.1. Aprendizaje Automático.md",
     "EPI/3-2/Sistemas Inteligentes/1.2. Presentación IA.md",
     "EPI/3-2/Sistemas Inteligentes/1.1. Introducción.md",
     "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
-    "EPI/3-2/Sistemas de Información/1. SCRUM.md",
-    "EPI/3-2/Sistemas de Información/0. Introducción.md",
-    "EPI/3-2/Ing. Redes/0. Introducción.md",
-    "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md",
-    "EPI/3-2/Infraestructuras/2. Servicios de Teconologías de la Información en una Organización..md"
+    "EPI/3-2/Sistemas de Información/1. SCRUM.md"
   ]
 }
