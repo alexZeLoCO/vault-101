@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc2582317005967",
+        "id": "d1723434a8ee3623",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc3f45ef2a73d46",
+            "id": "ae2ea09c95100f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md"
+                "file": "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d8858cf91c34dae",
+  "active": "ae2ea09c95100f86",
   "lastOpenFiles": [
     "EPI/3-2/Sistemas Inteligentes/2.2. Algoritmos simples.md",
-    "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
-    "Excalidraw/2.3. Árboles de decisión 31-01-2023 14.43.00.excalidraw.md",
-    "Excalidraw/2.2 Algoritmos simples 31-01-2023 14.21.01.excalidraw.md",
     "EPI/3-2/Sistemas Inteligentes/2.1. Aprendizaje Automático.md",
-    "templates/TestTemplate.md",
-    "FuckingNote.md",
-    "{{TITLE}}.md",
-    "EPI/3-2/Infraestructuras/3. Centro de Proceso de Datos (CPD) aka Data Center.md",
-    "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md"
+    "EPI/3-2/Sistemas Inteligentes/1.2. Presentación IA.md",
+    "EPI/3-2/Sistemas Inteligentes/1.1. Introducción.md",
+    "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
+    "EPI/3-2/Sistemas de Información/1. SCRUM.md",
+    "EPI/3-2/Sistemas de Información/0. Introducción.md",
+    "EPI/3-2/Ing. Redes/0. Introducción.md",
+    "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md",
+    "EPI/3-2/Infraestructuras/2. Servicios de Teconologías de la Información en una Organización..md"
   ]
 }
