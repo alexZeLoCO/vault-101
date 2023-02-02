@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
+                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
+                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
+                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md"
+                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "4d30387a2ed2f825",
   "lastOpenFiles": [
-    "EPI/3-2/Ing. Redes/1.2. Nivel 3 - IP.md",
-    "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md",
-    "EPI/3-2/Ing. Redes/1.3. Nivel 4 - Transporte.md",
-    "EPI/3-2/Ing. Redes/1.1. Nivel 2 - Enlace.md",
-    "templates/TestTemplate.md",
-    "EPI/3-2/Sistemas Distribuidos/2.1. Intercomunicación de procesos.md",
-    "EPI/3-2/Sistemas Inteligentes/2.3.1. CART (Classification and Regression Trees).md",
-    "Excalidraw/2.1. Intercomunicación de procesos. 02-02-2023 09.54.22.excalidraw.md",
+    "Variables de Sprites.md",
+    "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
     "EPI/3-2/Sistemas Distribuidos/1.1. Procedimientos Remotos.md",
-    "Excalidraw/2.1. Intercomunicación de procesos. 02-02-2023 09.47.17.excalidraw.md"
+    "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
+    "EPI/3-2/Ing. Redes/1.2. Nivel 3 - IP.md",
+    "EPI/3-2/Ing. Redes/1.1. Nivel 2 - Enlace.md",
+    "EPI/3-2/Ing. Redes/1.3. Nivel 4 - Transporte.md",
+    "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md",
+    "templates/TestTemplate.md",
+    "EPI/3-2/Sistemas Distribuidos/2.1. Intercomunicación de procesos.md"
   ]
 }
