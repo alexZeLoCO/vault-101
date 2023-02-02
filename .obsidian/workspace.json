@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e56515845eef1697",
+        "id": "715c82aa88417e53",
         "type": "tabs",
         "children": [
           {
-            "id": "c2a45989d766ad3a",
+            "id": "4d30387a2ed2f825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.1. Nivel 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33cc29db1c5f6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPI/3-2/Ing. Redes/1.1. Nivel 2.md",
+                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.1. Nivel 2.md",
+                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.1. Nivel 2.md",
+                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/1.1. Nivel 2.md"
+                "file": "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md"
               }
             }
           }
@@ -160,17 +147,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b33cc29db1c5f6c4",
+  "active": "4d30387a2ed2f825",
   "lastOpenFiles": [
+    "EPI/3-2/Ing. Redes/1.2. Nivel 3 - IP.md",
     "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md",
-    "EPI/3-2/Ing. Redes/1.2. Nivel 3.md",
-    "EPI/3-2/Ing. Redes/1.1. Nivel 2.md",
+    "EPI/3-2/Ing. Redes/1.3. Nivel 4 - Transporte.md",
+    "EPI/3-2/Ing. Redes/1.1. Nivel 2 - Enlace.md",
     "templates/TestTemplate.md",
     "EPI/3-2/Sistemas Distribuidos/2.1. Intercomunicación de procesos.md",
     "EPI/3-2/Sistemas Inteligentes/2.3.1. CART (Classification and Regression Trees).md",
     "Excalidraw/2.1. Intercomunicación de procesos. 02-02-2023 09.54.22.excalidraw.md",
     "EPI/3-2/Sistemas Distribuidos/1.1. Procedimientos Remotos.md",
-    "Excalidraw/2.1. Intercomunicación de procesos. 02-02-2023 09.47.17.excalidraw.md",
-    "Excalidraw/2.1. Intercomunicación de procesos. 02-02-2023 09.37.02.excalidraw.md"
+    "Excalidraw/2.1. Intercomunicación de procesos. 02-02-2023 09.47.17.excalidraw.md"
   ]
 }
