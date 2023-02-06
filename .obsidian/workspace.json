@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "715c82aa88417e53",
+        "id": "124680222e8b643f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d30387a2ed2f825",
+            "id": "a73b31a91d3cf793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
+                "file": "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "77eeff60f200e165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "375edc3c1d687a24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2. Uso de git desde eclipse 06-02-2023 13.45.21.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
+                "file": "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
+                "file": "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +148,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1 Cerramiento.md"
+                "file": "EPI/3-2/Sistemas de Información/3. Historias de usuario.md"
               }
+            }
+          },
+          {
+            "id": "43afb00434530e55",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -144,20 +175,21 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4d30387a2ed2f825",
+  "active": "77eeff60f200e165",
   "lastOpenFiles": [
-    "Variables de Sprites.md",
-    "EPI/3-2/Infraestructuras/3.1 Cerramiento.md",
-    "EPI/3-2/Sistemas Distribuidos/1.1. Procedimientos Remotos.md",
-    "EPI/3-2/Ing. Redes/1.4. Protocolo ARP.md",
-    "EPI/3-2/Ing. Redes/1.2. Nivel 3 - IP.md",
-    "EPI/3-2/Ing. Redes/1.1. Nivel 2 - Enlace.md",
-    "EPI/3-2/Ing. Redes/1.3. Nivel 4 - Transporte.md",
-    "EPI/3-2/Ing. Redes/1. Arquitectura de la red de Internet.md",
+    "Excalidraw/3. Historias de usuario 06-02-2023 14.35.16.excalidraw.md",
+    "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
+    "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
+    "Excalidraw/2. Uso de git desde eclipse 06-02-2023 13.45.21.excalidraw.md",
+    "Excalidraw/2. Uso de git desde eclipse 06-02-2023 13.21.43.excalidraw.md",
+    "templates/continuation.md",
     "templates/TestTemplate.md",
-    "EPI/3-2/Sistemas Distribuidos/2.1. Intercomunicación de procesos.md"
+    "EPI/3-2/Ing. Redes/1.5. IPv6.md",
+    "EPI/3-2/Sistemas Inteligentes/3. Preprocesado de datos.md",
+    "EPI/3-2/Sistemas Inteligentes/2.4. Support Vector Machines - SVM.md"
   ]
 }
