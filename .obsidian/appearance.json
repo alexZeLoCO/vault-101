@@ -3,5 +3,6 @@
   "translucency": false,
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "Cascadia Code",
-  "interfaceFontFamily": "Cascadia Code"
+  "interfaceFontFamily": "Cascadia Code",
+  "cssTheme": "Blackbird"
 }

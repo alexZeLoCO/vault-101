@@ -8,31 +8,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a73b31a91d3cf793",
+            "id": "6e1d82e33ef27de4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
+                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "02854a73ed56b282",
+            "id": "96c67c0cf2e05075",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/3.1. Visualización de datos.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/2. Interconexión de redes 10-02-2023 12.40.51.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5110321044922
+    "width": 387.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "ac15fe25157bcf41",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/3.1. Visualización de datos.md",
+                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/3.1. Visualización de datos.md",
+                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/3.1. Visualización de datos.md"
+                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md"
               }
             }
           },
@@ -169,17 +167,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "02854a73ed56b282",
+  "active": "6e1d82e33ef27de4",
   "lastOpenFiles": [
-    "EPI/3-2/Sistemas Inteligentes/3. Preprocesado de datos.md",
-    "EPI/3-2/Sistemas Inteligentes/3.1. Visualización de datos.md",
-    "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
-    "EPI/3-2/Sistemas de Información/2. Uso de git desde eclipse.md",
-    "Excalidraw/3. Historias de usuario 06-02-2023 14.35.16.excalidraw.md",
-    "Excalidraw/2. Uso de git desde eclipse 06-02-2023 13.45.21.excalidraw.md",
-    "Excalidraw/2. Uso de git desde eclipse 06-02-2023 13.21.43.excalidraw.md",
-    "templates/continuation.md",
-    "templates/TestTemplate.md",
-    "EPI/3-2/Ing. Redes/1.5. IPv6.md"
+    "Excalidraw/2. Interconexión de redes 10-02-2023 12.27.13.excalidraw.md",
+    "Excalidraw/2. Interconexión de redes 10-02-2023 12.40.51.excalidraw.md",
+    "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
+    "Excalidraw/2. Interconexión de redes 10-02-2023 12.21.12.excalidraw.md",
+    "EPI/3-2/Infraestructuras/3.4. Refrigeración.md",
+    "Excalidraw/2. Interconexión de redes 10-02-2023 12.13.11.excalidraw.md",
+    "Excalidraw/3.4. Refrigeración 09-02-2023 12.38.11.excalidraw.md",
+    "Excalidraw/3.4. Refrigeración 09-02-2023 12.15.19.excalidraw.md",
+    "EPI/3-2/Infraestructuras/3.3. Racks.md",
+    "EPI/3-2/Ing. Redes/1.5.1. Direcciones Unicast.md"
   ]
 }
