@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9e70700e55614a83",
+    "id": "1a8ccd6ebd75f5f2",
     "type": "split",
     "children": [
       {
-        "id": "124680222e8b643f",
+        "id": "c33ad0c5f9aeb0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "6e1d82e33ef27de4",
+            "id": "a03b5e166d2c336b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "96c67c0cf2e05075",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2. Interconexión de redes 10-02-2023 12.40.51.excalidraw.md"
-              }
-            }
           }
         ]
       }
@@ -35,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "13b2e02dda794e07",
+    "id": "3dd6f309510f7078",
     "type": "split",
     "children": [
       {
-        "id": "2b06d41cab37df8b",
+        "id": "b203b6c88a669f89",
         "type": "tabs",
         "children": [
           {
-            "id": "3d8858cf91c34dae",
+            "id": "fa86f60071cf7ac0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,13 +43,13 @@
             }
           },
           {
-            "id": "23fd332bd322fbe9",
+            "id": "d95e74a07d1e5da6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -68,7 +58,7 @@
             }
           },
           {
-            "id": "1ce30eef1718b29f",
+            "id": "6e62c9118d3c78cb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -79,19 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5110321044922,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "ac15fe25157bcf41",
+    "id": "d7fb4a42ccd36bde",
     "type": "split",
     "children": [
       {
-        "id": "5e6f44f22858682d",
+        "id": "3237f39a01cbe83b",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f3f18b1c5dba07",
+            "id": "a1a5f14f04aecbf6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +97,7 @@
             }
           },
           {
-            "id": "859f7c8abe109c85",
+            "id": "59c2fbe058c0c445",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +109,7 @@
             }
           },
           {
-            "id": "79470a8c3f4bb635",
+            "id": "a9cdba66f099bca2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,21 +120,13 @@
             }
           },
           {
-            "id": "93b50aeb06d6400e",
+            "id": "199e88fa2b6d3d75",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
                 "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md"
               }
-            }
-          },
-          {
-            "id": "43afb00434530e55",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
@@ -157,27 +138,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6e1d82e33ef27de4",
-  "lastOpenFiles": [
-    "Excalidraw/2. Interconexión de redes 10-02-2023 12.27.13.excalidraw.md",
-    "Excalidraw/2. Interconexión de redes 10-02-2023 12.40.51.excalidraw.md",
-    "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
-    "Excalidraw/2. Interconexión de redes 10-02-2023 12.21.12.excalidraw.md",
-    "EPI/3-2/Infraestructuras/3.4. Refrigeración.md",
-    "Excalidraw/2. Interconexión de redes 10-02-2023 12.13.11.excalidraw.md",
-    "Excalidraw/3.4. Refrigeración 09-02-2023 12.38.11.excalidraw.md",
-    "Excalidraw/3.4. Refrigeración 09-02-2023 12.15.19.excalidraw.md",
-    "EPI/3-2/Infraestructuras/3.3. Racks.md",
-    "EPI/3-2/Ing. Redes/1.5.1. Direcciones Unicast.md"
-  ]
+  "active": "a03b5e166d2c336b",
+  "lastOpenFiles": []
 }

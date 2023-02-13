@@ -1,5 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-functionplot",
+  "obsidian-plotly"
 ]
