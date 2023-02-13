@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/2. Interconexión de redes.md"
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md"
               }
             }
           }
@@ -149,5 +149,7 @@
     }
   },
   "active": "a03b5e166d2c336b",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "EPI/3-2/Ing. Redes/2. Interconexión de redes.md"
+  ]
 }
