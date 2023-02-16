@@ -4,35 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "c33ad0c5f9aeb0cd",
+        "id": "34723be702e1533c",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6353b4db01a87e",
+            "id": "c4501e5a3694475c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/2.2 Protocolos de encaminamiento exterior.md",
+                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a520ee1ab386950f",
+            "id": "e3a9654de4cddb6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3 Multi Protocol Label Switching (MPLS).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 294,
+    "collapsed": true
   },
   "right": {
     "id": "d7fb4a42ccd36bde",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3 Multi Protocol Label Switching (MPLS).md",
+                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3 Multi Protocol Label Switching (MPLS).md",
+                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3 Multi Protocol Label Switching (MPLS).md"
+                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md"
               }
             }
           }
@@ -161,15 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a520ee1ab386950f",
+  "active": "c4501e5a3694475c",
   "lastOpenFiles": [
-    "EPI/3-2/Ing. Redes/2.2 Protocolos de encaminamiento exterior.md",
-    "EPI/3-2/Ing. Redes/2.1 Protocolos de encaminamiento interior.md",
-    "EPI/3-2/Ing. Redes/2. Interconexión de redes.md",
-    "EPI/3-2/Ing. Redes/PL1.md",
-    "EPI/3-2/Sistemas Distribuidos/3. Varios clientes simultáneamente.md",
-    "EPI/3-2/Sistemas Distribuidos/2.1. Intercomunicación de procesos.md",
-    "EPI/3-2/Sistemas Distribuidos/1.1. Procedimientos Remotos.md",
-    "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md"
+    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw 1.md",
+    "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
+    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md",
+    "EPI/3-2/Infraestructuras/3. Tecnologías de virtualización.md",
+    "EPI/3-2/Infraestructuras/2.6. Diseño de un CPD - El estándar Tier.md",
+    "EPI/3-2/Infraestructuras/2.5. Detección y extinción de incendios.md",
+    "EPI/3-2/Infraestructuras/0. Introducción.md",
+    "EPI/3-2/Infraestructuras/2.4. Refrigeración.md",
+    "EPI/3-2/Infraestructuras/2. Centro de Proceso de Datos (CPD) aka Data Center.md",
+    "EPI/3-2/Infraestructuras/2.3. Racks.md"
   ]
 }

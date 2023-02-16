@@ -4,5 +4,8 @@
   "textFontFamily": "Cascadia Code",
   "monospaceFontFamily": "Cascadia Code",
   "interfaceFontFamily": "Cascadia Code",
-  "cssTheme": "Encore"
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "big-math"
+  ]
 }
