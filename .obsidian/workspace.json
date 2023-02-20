@@ -20,16 +20,19 @@
             }
           },
           {
-            "id": "e3a9654de4cddb6d",
+            "id": "166d471479d99bfa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md"
+                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294,
-    "collapsed": true
+    "width": 294
   },
   "right": {
     "id": "d7fb4a42ccd36bde",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
+                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
+                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md"
+                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md"
               }
             }
           }
@@ -159,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4501e5a3694475c",
+  "active": "166d471479d99bfa",
   "lastOpenFiles": [
-    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw 1.md",
     "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
+    "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
+    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw 1.md",
     "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md",
     "EPI/3-2/Infraestructuras/3. Tecnologías de virtualización.md",
     "EPI/3-2/Infraestructuras/2.6. Diseño de un CPD - El estándar Tier.md",
     "EPI/3-2/Infraestructuras/2.5. Detección y extinción de incendios.md",
     "EPI/3-2/Infraestructuras/0. Introducción.md",
     "EPI/3-2/Infraestructuras/2.4. Refrigeración.md",
-    "EPI/3-2/Infraestructuras/2. Centro de Proceso de Datos (CPD) aka Data Center.md",
-    "EPI/3-2/Infraestructuras/2.3. Racks.md"
+    "EPI/3-2/Infraestructuras/2. Centro de Proceso de Datos (CPD) aka Data Center.md"
   ]
 }
