@@ -4,35 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "34723be702e1533c",
+        "id": "baf4ca49272188d8",
         "type": "tabs",
         "children": [
           {
-            "id": "c4501e5a3694475c",
+            "id": "9dda694eca308be6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "166d471479d99bfa",
+            "id": "e512358866242808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md"
+                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md"
               }
             }
           }
@@ -161,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "166d471479d99bfa",
+  "active": "9dda694eca308be6",
   "lastOpenFiles": [
+    "EPI/3-2/Sistemas Inteligentes/5.1. Convolutional Neural Networks (CNN).md",
+    "EPI/3-2/Ing. Redes/3. Multi Protocol Label Switching (MPLS).md",
+    "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md",
+    "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
+    "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw.md",
+    "EPI/3-2/Ing. Redes/puto titulo.md",
     "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
     "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
     "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw 1.md",
-    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md",
-    "EPI/3-2/Infraestructuras/3. Tecnologías de virtualización.md",
-    "EPI/3-2/Infraestructuras/2.6. Diseño de un CPD - El estándar Tier.md",
-    "EPI/3-2/Infraestructuras/2.5. Detección y extinción de incendios.md",
-    "EPI/3-2/Infraestructuras/0. Introducción.md",
-    "EPI/3-2/Infraestructuras/2.4. Refrigeración.md",
-    "EPI/3-2/Infraestructuras/2. Centro de Proceso de Datos (CPD) aka Data Center.md"
+    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md"
   ]
 }

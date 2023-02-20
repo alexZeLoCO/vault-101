@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "big-math",
     "my-css"
-  ]
+  ],
+  "baseFontSize": 17
 }
