@@ -6,6 +6,7 @@
   "interfaceFontFamily": "Cascadia Code",
   "cssTheme": "",
   "enabledCssSnippets": [
-    "big-math"
+    "big-math",
+    "my-css"
   ]
 }
