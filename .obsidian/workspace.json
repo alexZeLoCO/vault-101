@@ -4,32 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "baf4ca49272188d8",
+        "id": "3579bf1174e9f1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "9dda694eca308be6",
+            "id": "67eebc5ad02679e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
+                "file": "EPI/3-2/Infraestructuras/4. Teconologías de Almacenamiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e512358866242808",
+            "id": "46d9763bf519b0ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md"
+                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
+                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
+                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md"
+                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md"
               }
             }
           }
@@ -158,17 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dda694eca308be6",
+  "active": "46d9763bf519b0ab",
   "lastOpenFiles": [
+    "EPI/3-2/Infraestructuras/4. Teconologías de Almacenamiento.md",
+    "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
+    "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md",
+    "EPI/3-2/Infraestructuras/3. Tecnologías de virtualización.md",
+    "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
     "EPI/3-2/Sistemas Inteligentes/5.1. Convolutional Neural Networks (CNN).md",
     "EPI/3-2/Ing. Redes/3. Multi Protocol Label Switching (MPLS).md",
-    "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md",
-    "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
     "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw.md",
     "EPI/3-2/Ing. Redes/puto titulo.md",
-    "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md",
-    "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
-    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw 1.md",
-    "Excalidraw/3.1. Concepto de Virtualización 16-02-2023 13.16.56.excalidraw.md"
+    "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md"
   ]
 }
