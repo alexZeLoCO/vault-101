@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bd56dcdc7441656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPI/3-2/Sistemas Inteligentes/5.1.2. Capas de redes Convolucionales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86d4fa1850295b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md"
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md"
               }
             }
           }
@@ -161,14 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46d9763bf519b0ab",
+  "active": "86d4fa1850295b0a",
   "lastOpenFiles": [
+    "EPI/3-2/Sistemas Inteligentes/5.1.2. Capas de redes Convolucionales.md",
+    "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
+    "EPI/3-2/Sistemas Inteligentes/5.1. Convolutional Neural Networks (CNN).md",
+    "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
     "EPI/3-2/Infraestructuras/4. Teconologías de Almacenamiento.md",
     "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
     "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md",
     "EPI/3-2/Infraestructuras/3. Tecnologías de virtualización.md",
     "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
-    "EPI/3-2/Sistemas Inteligentes/5.1. Convolutional Neural Networks (CNN).md",
     "EPI/3-2/Ing. Redes/3. Multi Protocol Label Switching (MPLS).md",
     "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw.md",
     "EPI/3-2/Ing. Redes/puto titulo.md",
