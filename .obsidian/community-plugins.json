@@ -3,5 +3,7 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "obsidian-functionplot",
-  "obsidian-plotly"
+  "obsidian-plotly",
+  "code-block-copy",
+  "execute-code"
 ]
