@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md"
+                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md"
               }
             }
           }
@@ -175,6 +175,9 @@
   },
   "active": "47ae505c31cf3732",
   "lastOpenFiles": [
+    "EPI/3-2/Sistemas Inteligentes/6.1. Inteligencia Artificial Actualidad..md",
+    "EPI/3-2/Sistemas Inteligentes/6. Presentaciones.md",
+    "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
     "EPI/3-2/Infraestructuras/4.2. Or.md",
     "EPI/3-2/Sistemas Distribuidos/4. XDR.md",
     "EPI/3-2/Sistemas Distribuidos/3. Varios clientes simultáneamente.md",
@@ -182,7 +185,6 @@
     "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
     "EPI/3-2/Sistemas Inteligentes/5.1.2. Capas de redes Convolucionales.md",
     "EPI/3-2/Sistemas Inteligentes/5.1. Convolutional Neural Networks (CNN).md",
-    "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
     "EPI/3-2/Infraestructuras/4. Teconologías de Almacenamiento.md",
     "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
     "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md",
