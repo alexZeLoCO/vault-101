@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3579bf1174e9f1fb",
+        "id": "4e3755b48a8cd31a",
         "type": "tabs",
         "children": [
           {
-            "id": "46d9763bf519b0ab",
+            "id": "661d03de2364496c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPI/3-2/Sistemas Distribuidos/3. Varios clientes simultáneamente.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb456b96c04a0520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPI/3-2/Sistemas Distribuidos/4. XDR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47ae505c31cf3732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
+                "file": "EPI/3-2/Sistemas Distribuidos/Examen 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Apuntes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 300
   },
   "right": {
     "id": "d7fb4a42ccd36bde",
@@ -110,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
-                "collapseAll": false,
+                "file": "EPI/3-2/Sistemas Distribuidos/Examen 1.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
+                "file": "EPI/3-2/Sistemas Distribuidos/Examen 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md"
+                "file": "EPI/3-2/Sistemas Distribuidos/Examen 1.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,26 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47ae505c31cf3732",
+  "active": "661d03de2364496c",
   "lastOpenFiles": [
-    "EPI/3-2/Sistemas Inteligentes/6.1. Inteligencia Artificial Actualidad..md",
-    "EPI/3-2/Sistemas Inteligentes/6. Presentaciones.md",
-    "EPI/3-2/Infraestructuras/4.1. Organización del almacenamiento en el computador.md",
-    "EPI/3-2/Infraestructuras/4.2. Or.md",
-    "EPI/3-2/Sistemas Distribuidos/4. XDR.md",
-    "EPI/3-2/Sistemas Distribuidos/3. Varios clientes simultáneamente.md",
-    "EPI/3-2/Sistemas de Información/3. Historias de usuario.md",
-    "EPI/3-2/Ing. Redes/3.1. MPLS Layer 3 VPN.md",
-    "EPI/3-2/Sistemas Inteligentes/5.1.2. Capas de redes Convolucionales.md",
-    "EPI/3-2/Sistemas Inteligentes/5.1. Convolutional Neural Networks (CNN).md",
-    "EPI/3-2/Infraestructuras/4. Teconologías de Almacenamiento.md",
-    "EPI/3-2/Infraestructuras/3.2. Virtualización de plataforma.md",
-    "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw 1.md",
-    "EPI/3-2/Infraestructuras/3. Tecnologías de virtualización.md",
-    "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md",
-    "EPI/3-2/Ing. Redes/3. Multi Protocol Label Switching (MPLS).md",
-    "Excalidraw/3 Multi Protocol Label Switching (MPLS) 20-02-2023 12.10.37.excalidraw.md",
-    "EPI/3-2/Ing. Redes/puto titulo.md",
-    "EPI/3-2/Infraestructuras/3.1. Concepto de Virtualización.md"
+    "Examen 1.md",
+    "EPI/3-2/Sistemas Distribuidos/Examen 1.md",
+    "Examen.md",
+    "EPI/3-2/Sistemas Distribuidos/1.1. Procedimientos Remotos.md",
+    "EPI/3-2/Infraestructuras/3.4. Refrigeración.md",
+    "EPI/3-2/Sistemas Inteligentes/2.3. Árboles de decisión.md",
+    "EPI/3-2/Ing. Redes/1.1. Nivel 2 - Enlace.md",
+    "EPI/3-2/Ing. Redes/PL/PL1.md",
+    "EPI/3-2/Ing. Redes/PL/IRD_practicas.pdf",
+    "EPI/3-2/Ing. Redes/PL/VLAN.md",
+    "EPI/3-2/Sistemas Inteligentes/2.3.1. CART (Classification and Regression Trees).md",
+    "EPI/3-2/Sistemas Inteligentes/2.2. Algoritmos simples.md",
+    "EPI/3-2/Sistemas Inteligentes/2.3.2. C4.5.md",
+    "EPI/3-2/Ing. Redes/1.5. IPv6.md",
+    "EPI/3-2/Sistemas Inteligentes/5. Deep Learning.md"
   ]
 }
