@@ -254,7 +254,7 @@ recvfrom()
 #### Terminar la comunicación
 ```c
 // <--------------------------------------------------->
-iclose()
+close()
 	#include <unistd.h>
 	int close(int fildes);
 // <--------------------------------------------------->
