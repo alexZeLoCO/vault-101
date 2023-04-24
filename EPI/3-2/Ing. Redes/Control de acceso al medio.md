@@ -86,3 +86,7 @@ En PCF, una estación tiene prioridad y actúa de coordinadora (generalmente, el
 
 ##### HCF
 Híbrido. Mezcla períodos en los que se utiliza DCF y otros en los que se utiliza PCF.
+
+<hr>
+
+2023-04-17 (YYYY-MM-DD) @ 12:10
