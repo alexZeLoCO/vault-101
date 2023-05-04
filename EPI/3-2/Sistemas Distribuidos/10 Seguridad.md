@@ -55,4 +55,25 @@ El mensaje $M$ se divide en bloques de $n$ bytes.
 Cada bloque se cifra individualmente aplicando el mismo algoritmo y clave.
 Si el mensaje $M$ no es múltiplo de $n$, entonces es necesario rellenar para lo que hay que aplicar algoritmos criptográficos ya que el rellenado podría facilitar un descifrado imprevisto.
 
+<hr>
 
+2023-04-27 (YYYY-MM-DD) @ 10:03
+
+### Clave asimétrica
+
+Utiliza dos claves $k_s$ (Clave privada) y $k_p$ (Clave pública).
+
+Sean:
+- $E(m,k)$ la función que cifra el mensaje $m$ con la clave $k$.
+- $D(m', k')$ la función que descifra el mensaje $m'$ con la clave $k'$.
+Entonces:
+- $D(E(m, k_p),k_s) = m$
+- $D(E(m, k_s), k_p) = m$
+
+La clave privada ($k_s$) no se comunica a nadie.
+La clave pública ($k_p$) es conocida por todos.
+
+#### Certificación
+Las claves públicas se pueden certificar.
+Para certificar la clave, se calcula el hash de la clave (aka, figerprint) y se compara con el fingerprint de quien originó la clave.
+Quien certifica la clave, la firma con su clave.
