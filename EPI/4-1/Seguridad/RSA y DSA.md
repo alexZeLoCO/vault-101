@@ -37,4 +37,4 @@ $r = [g^k \mod p] \mod q$
 $s = [k^{-1} \cdot (H + X \cdot r)] \mod q$
 $(a \cdot b) \mod n = [(a \mod n) \cdot (b \mod n)] \mod n$
 
-![[RSA y DSA 2023-10-18 12.32.30.excalidraw]]
+![[RSA y DSA 2023-10-20 13.55.27.excalidraw|1900]]
