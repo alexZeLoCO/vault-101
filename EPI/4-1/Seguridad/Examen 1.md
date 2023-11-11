@@ -355,7 +355,7 @@ flowchart TD
 
 ### Inventariado y valoración de activos
 
-### Inventariado de activos
+#### Inventariado de activos
 
 - Hardware.
 - Software.
@@ -367,14 +367,14 @@ flowchart TD
 - Imagen y reputación.
 - Confianza de los clientes.
 
-### Valoración de activos
+#### Valoración de activos
 
 El valor no sólo es monetario.
 El valor describe también cómo de crítico es el activo, y cómo de complicado es reemplazarlo.
 
 ### Identificación y valoración de las amenazas
 
-### Identificación de amenazas
+#### Identificación de amenazas
 
 - Desastres naturales.
 - Fallos en infraestructuras (Cortes de electricidad).
@@ -383,7 +383,7 @@ El valor describe también cómo de crítico es el activo, y cómo de complicado
 - Agentes externos (Sabotaje).
 - Agentes internos (Errores en el uso).
 
-### Valoración de amenazas
+#### Valoración de amenazas
 
 1. Identificar el origen.
 2. Identificar el blanco.
@@ -544,6 +544,8 @@ El cifrado de cada bloque puede ser (o no) independiente para cada bloque.
 
 #### Modos de funcionamiento
 
+![[Examen 1 2023-10-20 10.11.01.excalidraw|1900]]
+
 ##### ECB
 
 Cada bloque se cifra con la clave de forma independiente a otros bloques.
@@ -695,7 +697,6 @@ Utiliza bloques de 512 bits y genera un resumen de 160 bits.
 Si fuese necesario rellenar el mensaje, se utilizan los siguientes bits al final: `10...011000`.
 El relleno es un `1` seguido por tantos `0` sean necesarios, y terminado en el caracter `L` codificado en ASCII (`11000`).
 
-
 ## Autenticación de mensajes
 
 Procedimiento para verificar que un mensaje proviene de un remitente concreto y que no ha sido modificado.
@@ -826,3 +827,6 @@ El resultado de calcular $C(K, M)$ se junta con el mensaje y se envía para que 
 > # 27007
 > - Guía de auditoría de los controles seleccionados en la implantación de un SGSI.
 
+## Ejercicio RSA
+
+![[Examen 1 2023-10-20 10.35.38.excalidraw]]
