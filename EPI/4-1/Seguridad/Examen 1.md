@@ -829,4 +829,4 @@ El resultado de calcular $C(K, M)$ se junta con el mensaje y se envía para que 
 
 ## Ejercicio RSA
 
-![[Examen 1 2023-10-20 10.35.38.excalidraw]]
+![[Examen 1 2023-10-20 10.35.38.excalidraw|1900]]
