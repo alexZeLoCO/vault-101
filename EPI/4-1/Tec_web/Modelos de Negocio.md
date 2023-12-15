@@ -106,3 +106,11 @@ Venta de productos ya no producidos.
 
 Ofrecen ofertas rápidas.
 En muy poco tiempo tienen un gran volúmen de ventasQ.
+
+<hr>
+
+2023-11-29 (YYYY-MM-DD) @ 15:11
+
+Hecho en #EPI
+
+He estado haciendo cosas de TFG...
