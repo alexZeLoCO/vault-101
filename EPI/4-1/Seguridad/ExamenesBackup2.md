@@ -133,7 +133,7 @@ flowchart TD
 ```
 
 # 2017
-
+por la raja de tu falda
 ## Dibuja mensajes y explica como en SSL/TLS, un cliente puede reutilizar la sesión SSL establecida previamente.
 
 ```mermaid
