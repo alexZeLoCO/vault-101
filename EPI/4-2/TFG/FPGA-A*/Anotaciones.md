@@ -17,6 +17,7 @@ Tags:
 El proyecto consiste en un programa capaz de calcular un camino desde un nodo inicial hasta un nodo final dado un grafo cuyos vértices tienen pesos.
 
 Qué es un heurístico?
+La función h(a, b)
 
 Enrutamiento de vehiculos
 Multiples furgonetas a entregar $N$ productos en $K$ localizaciones
