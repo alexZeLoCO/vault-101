@@ -1,0 +1,54 @@
+# PA3
+2024-04-05 (YYYY-MM-DD) @ 16:11
+Rodríguez López, Alejandro // UO281827
+
+Tags:
+	#showable
+	Hecho en #EPI
+	Sobre #Proyectos 
+	Para #Apuntes
+	Otros:
+	Refs:
+ 
+<hr>
+
+Sólo existe un suceso inicio de proyecto y uno fin de proyecto.
+El primer suceso es el que no tiene precedencias.
+El último suceso es el que no aparece en la lista de precedencias.
+
+Un suceso, celdas en sentido horario:
+- ID
+- Tiempo Last
+- Tiempo Early
+
+Q: El tiempo last del último suceso es siempre igual al early?
+
+<hr>
+
+2024-04-12 (YYYY-MM-DD) @ 16:17
+
+Hecho en #EPI
+
+# PA4
+
+- Tiempo Early: Comienzas la tarea cuanto antes sea posible.
+- Tiempo Last: Comienzas la tarea cuanto más tarde sea posible. (Sí, soy)
+
+De inicio a fin se calculan los T Early.
+De fin a inicio se calculas los T Last.
+
+> [!note] T Last
+> El T Last de la última actividad es igual a su T Early.
+
+![[PA3 y 4 2024-04-12 16.17.55.excalidraw|1900]]
+
+- Holgura Total: Tiempo que se puede atrasar una tarea sin que se atrase el proyecto.
+- Una actividad crítica tiene un HT igual al $T_{Last}$ de la tarea anterior.
+- $H^x = T^x_{Last} - D^x$ (Tiempo last de tarea $x$ menos duración de $x$).
+- Un atraso en una actividad afecta al resto de actividades que queden por ejecutar (si se pierde un día, se resta uno de las holguras de las restantes).
+
+![[PA3 y 4 2024-04-12 16.33.08.excalidraw|1900]]
+
+## Gantt de T Early
+
+![[PA3 y 4 2024-04-12 16.59.28.excalidraw]]
