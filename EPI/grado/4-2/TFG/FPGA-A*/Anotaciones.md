@@ -509,167 +509,110 @@ Fotogramas a añadir en las traspas:
 Hecho en #Viesques 
 
 Anotaciones sobre las diferentes traspas (animación).
-
 ## Portada
-
 Presentación autor y tutor.
 Agradecimientos por asistencia.
-
 ## Introducción
-
 Ámbito informática, problemas complejos.
 Algoritmos de búsqueda para resolver problemas.
 TFG busca aceleración de A* para resolver un problema clásico.
-
 ## Contenidos
 
 Se va a resolver JSP utilizando A*.
 Se va a tratar de acelerar utilizando H, P y F.
-
 ## JSP
-
 ### Entrada
-
 Formado por tareas con duración y worker.
-
 Conjunto de trabajos formados por tareas.
 En este caso, N trabajos con M tareas.
-
 ### Salida
-
 Una planificación de los trabajos entrada.
 -1 Indica "no planificado".
 Múltiples soluciones, algunas óptimas otras no.
 El principal dato de salida no será la planificación sino el makespan (9).
-
 ### Sucesores
-
 Un estado es una planificación completa o parcial.
 Generalmente, N trabajos N sucesores.
 Cada sucesor planifica la tarea $T_{j,k}$ de cada trabajo $j$.
 Los estados del JSP se organizan en un K-árbol para K trabajos en el que la raíz es el nodo inicial y las hojas las soluciones (óptimas o no).
-
 ## A*
-
 Formado por un `open_set`, conjunto de estados sin repetir ordenados en función de coste F.
 Formado por una función que compruebe si el estado es objetivo.
 Formado por una función que retorna sucesores de un estado.
 Formado por un estado inicial.
-
 ### Comprobar objetivo
-
 Al explorar o procesar un estado primero se comprueba si es el objetivo o no.
 Si es el objetivo se retorna.
-
 ### Obtener sucesores
-
 Si el estado no era el objetivo, se obtienen sus sucesores.
-
 ### Insertar sucesores
-
 Los sucesores se insertan en el `open_set` de forma ordenada.
-
 ### Repetir
-
 Se repite el proceso hasta alcanzar el estado objetivo.
-
 ## Reutilizable
-
 JSP no es el único problema de A*, otros son pathfinding.
-
 ## Heurísticos / Orden del open set
-
 Ejemplo en el que se muestran estado inicial (verde), estado final (naranja) y actual (cian).
 El estado actual tiene un coste G, desde inicio hasta él.
 El estado actual tiene una solución, desde él hasta fin.
 Esa solución no se conoce en tiempo de ejecución, se estima con coste H.
-
 ### Cota inferior
-
 Ejemplo óptimo anterior con makespan 9.
 Obtenemos un estado anterior.
 Se calcula el tiempo restante de cada trabajo.
 Se calcula el máximo de ellos (6).
 Nótese que 6 + 3 = 9 = makespan.
 En general, función.
-
 ### Cota superior
-
 Ejemplo óptimo anterior con makespan 9.
 Obtenemos un estado anterior.
 Se calcula el tiempo restante de cada trabajo.
 Se calcula la suma de todos (12).
 Nótese que 12 + 3 = 15 > 9.
 En general, función.
-
 ### Plano Heurísticos
-
 Optimistas (cota inferior): menor makespan, mayor runtime.
 Pesimistas (cota superior): menor runtime, mayor makespan.
-
 ### Comparativa Heurísticos
-
 Solución óptima: 450.
 Resultados erráticos en FCFS/HDA con 8 hilos.
 Resultados estables en todo con 1 hilo.
 A mayor tamaño, peor resultados del heurístico rápido.
 Seleccionar aleatoriamente sigue siendo peor.
-
 ## Paralelismo
-
 ### Singlethread
-
 Un sólo camino, mínimo número de nodos explorados.
-
 ### Recursive
-
 N ejecuciones para N vecinos del primer nodo.
-
 ### Batch
-
 En cada iteración se exploran los N mejores nodos.
-
 ### FCFS
-
 A medida que los hilos quedan libres, exploran el mejor nodo de la lista.
 Máximo número de nodos explorados.
-
 ### HDA
-
 Como FCFS pero distribuyendo nodos en N listas seguń hash.
 Idealmente los nodos se distribuyen equitativamente según la hash.
-
 ### Resultados
-
 FCFS v. Batch:
 	Ambos empeoran por explorar más nodos en menos tiempo.
 	Batch es peor por esperar al equipo de hilos.
-
 FCFS v. Recursive:
 	Con 1 hilo, el recursive tarda FCFS * N_vecinos.
 	Con N hilos, tardan lo mismo.
-
 FCFS v. HDA:
 	En cualquier caso, HDA es más rápido por distribuir el open_set.
 	El incremento en speedup del HDA se ve reducido a medida se incrementa el número de hilos.
 	La segunda derivada del runtime de HDA es inferior a 1.
-
 ## FPGA
-
 ### Arquitectura: CPU
-
 Memoria contiene instrucciones y datos.
 Se deben cargar ambos en una ALU que puede hacer de todo.
 Arquitectura genérica.
-
 ### Arquitectura: FPGA
-
 Memoria contiene datos.
 Se deben cargar sólo los datos en las puertas.
 Las instrucciones es la combinación de puertas.
 Arquitectura específica.
-
 ### Resultados FPGA
-
 Catástrofe salvo en recursive solver porque es obvio.
 Seguramente un programa desarrollado directamente en VHDL o en C++ pero prestando mayor detalle al desarrollo para FPGA obtenga mejores resultados, especialmente si combate el cuello de botella open_set.
