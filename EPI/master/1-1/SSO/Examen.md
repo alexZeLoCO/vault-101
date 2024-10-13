@@ -537,3 +537,162 @@ Elementos del modelo Cloud:
 
 - Conjunto de herramientas
 - Diseñadas para simplificar el despliegue, configuración, administración y supervisión de infraestructura de centro de datos y componentes virtuales desplegados en él.
+
+## Preguntas
+
+### Tema 1
+
+- Cloud Computing
+	- Definición
+	- Elementos del modelo cloud
+- Características esenciales cloud
+- Modelos de servicio
+	- Características de cada modelo
+	- Restricción común
+- Modelos de despliegue
+	- Quién lo usa
+	- Quién lo gestiona
+	- Dónde se ubica
+- Actores principales
+
+### Tema 2
+
+- Infraestructura Virtual
+	- Definición
+	- Ventaja esencial
+- Elementos de la infraestructura hardware
+	- Cometido de cada uno de ellos
+- Topología en tres niveles
+	- Funcionalidad de cada uno
+	- Posición que ocupan
+	- Diagrama
+- Topología colapsada en nivel troncal
+	- Concepto
+	- Ventaja
+	- Uso
+	- Diagrama
+- Apilamiento de switches
+	- Concepto
+	- Cuándo se aplica
+	- Implementación
+- VLAN
+	- Concepto
+	- Etiquetado
+- Puertos de acceso y trunks
+	- Puerto de acceso
+	- Trunk
+- Equipos finales con varias VLAN
+	- Qué tipo de plataformas
+	- Por qué
+	- Tipos de tráficos
+- NIC teaming
+	- Concepto
+	- Beneficios
+		- Explicar cada uno
+- NIC Teaming para agregación
+	- Dos alternativas de implementación
+	- Comparativa
+		- Complejidad configuración
+		- Prestaciones
+	- Modo de funcionamiento
+- NIC Teaming para tolerancia a fallos
+	- Alternativa de implementación
+	- Modo de funcionamiento
+- Topología Edge-Core
+	- Objetivo de cada nivel
+	- Tipo de implementación de cada nivel
+- Topología Edge-Core-Edge
+	- Objetivo de cada nivel
+	- Tipo de implementación de cada nivel
+- Comparativa de topologías
+	- Coste de instalación
+	- Prestaciones
+	- Escalabilidad
+- Redundancia y capacidad de recuperación
+	- Objetivo de redundancia
+	- Significado de capacidad de recuperación
+	- Dónde se implementa la capacidad de recuperación
+	- Qué es Fabric Shortest Path First (FSPF)
+- Topología de red redundante
+	- Topología de una red SAN redundante y como se conectan los dispositivos finales a ella.
+- Trunking
+	- Concepto
+	- Objetivos del trunking
+- MPIO
+	- Concepto
+	- Implementación
+	- Modos de funcionamiento
+		- Explicar cada uno
+- Req. Servidores pequeños y medianos
+	- Objetivo de cada uno de ellos
+- Características Servidores pequeños y medianos
+	- Factor de forma
+	- Características alta disponibilidad
+	- Mecanismos de soporte de virtualización asistida por hw
+	- Conectividad a la SAN
+	- Conectividad a la red de datos
+- Req. Servidores global
+	- Objetivo de cada uno de ellos
+- Características Servidores global
+	- Factor de forma
+	- Elimina redundancia
+		- Por qué
+		- Problema
+		- Solución
+	- Objetivo incremento modularidad
+	- Estrategia de conectividad
+- OPEN Compute Project
+	- Qué es
+	- Quiénes actúan
+- Virtualización
+	- Productos utilizados para virtualización
+	- Categoría de cada uno
+- Cuatro tecnologías de colaboración de sistemas que dan soporte a infra. virtual.
+- Clúster de computadores
+	- Definición
+	- Objetivo
+- Tipos de clústeres
+	- Objetivo
+	- Criterio de implementación
+	- Ámbitos de aplicación
+- Estructura de un CCE
+	- Esquema
+- Conmutación por error (Failover)
+	- Concepto
+- Arquitectura de red básica
+	- Tipos de redes
+		- Cometido de cada una
+- Componentes Clúster de Windows
+	- Cinco componentes
+	- Funcionalidades básicas de cluster service
+- Hearbeat
+	- Concepto
+- Split Brain y Quorum
+	- Concepto Split Brain
+	- Consecuencias Split Brain
+	- Objetivo Quorum
+	- Concepto Quorum
+	- Mencanismo formación Quorum
+	- Elementos con derecho a voto
+- Modelos Quorum
+	- Dos modelos y cuándo se aplican
+- Clúster HyperV
+	- Concepto
+	- Uso almacenamiento compartido
+	- Dónde se pueden ejecutar las VM
+- Aportaciones esenciales clúster HyperV a infra. virtual
+	- Dos aportaciones básicas
+	- Beneficios aportados por marco de movilidad de VMs
+		- Explicar cada uno
+	- Conocer mejora operativa aportada por movilidad VMs
+- Introducción CSV
+	- Concepto
+	- Beneficio Esencial
+- Migración en vivo de VMs
+	- Concepto
+	- Beneficio Esencial
+- Migración en vivo de almacenamiento
+	- Concepto
+	- Beneficio Esencial
+- Propuesta MS system Center
+	- Explicar qué es MS System Center
