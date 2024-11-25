@@ -28,4 +28,22 @@ Nivel estratégico y gestión
 ### Procesos de Soporte
 
 - Gestión de pagos de matrículas
-q
+
+<hr>
+
+2024-11-14 (YYYY-MM-DD) @ 19:59
+
+Hecho en #EPI
+
+## Matriculación
+
+- Grado
+- Master
+- Doctorado
+- Titulos propios
+
+![[PL2 2024-11-14 19.59.45.excalidraw|1900]]
+
+1. Acc. Adm
+2. Matrícula
+	1. PreI.
