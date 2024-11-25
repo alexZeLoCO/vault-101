@@ -47,3 +47,32 @@ Hecho en #EPI
 1. Acc. Adm
 2. Matrícula
 	1. PreI.
+
+<hr>
+
+2024-11-25 (YYYY-MM-DD) @ 18:32
+
+Hecho en #Viesques
+
+1. Preinscripción y Matrícula
+2. Grado
+	1. Preinscripcion = Solicitud de Plaza
+	2. Reclamación
+	3. Matriculación
+	4. Pago Matrícula
+3. Master
+	1. Preinscripcion
+	2. Reclamación
+	3. Reserva de plaza
+	4. Matrículación
+	5. Pago Matrícula
+4. Doctorado
+	1. Preinscripción
+	2. Reclamación
+	3. Matriculación
+	4. Pago Matrícula
+5. Títulos Propios
+	1. Preinscripción
+	2. Reclamación
+	3. Matriculación
+	4. Pago Matrícula
