@@ -33,7 +33,7 @@ Comportamiento esperado:
 #### Entrada
 - Drone
 	- double Batería
-	- double Waypoint
+	- Waypoint nextWaypoint
 - Waypoints[]
 #### Salida
 
