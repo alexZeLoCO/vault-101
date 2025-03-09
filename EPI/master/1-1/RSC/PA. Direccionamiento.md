@@ -12,4 +12,4 @@ Tags:
  
 <hr>
 
-![[PA. Direccionamiento 2024-10-21 17.11.39.excalidraw]]
+![[PA. Direccionamiento 2024-10-21 17.11.39.excalidraw|1900]]
